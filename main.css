@@ -1,0 +1,26 @@
+/* * {
+    margin-left: 70px;
+} */
+
+.lato-font {font-family: "Lato", sans-serif}
+
+.bg {
+    background-color: lightblue;
+}
+
+.ctrls {
+    background-color: rgb(173, 230, 216); 
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 200px;
+}
+
+div.background {
+    background-color: yellow;
+}  
+
+h1 {style='color:blue;'}  
